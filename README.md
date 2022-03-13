@@ -1,0 +1,3 @@
+# SpringMVC Archetype
+
+SpringMVC Archetype.
